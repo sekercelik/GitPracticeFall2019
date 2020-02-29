@@ -5,6 +5,8 @@ public class StringPractice {
 
         System.out.println("Hello Phase 2!!");
 
+        String str= "Learning to commit on github";
+        System.out.println(str);
 
 
     }
