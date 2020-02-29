@@ -12,6 +12,6 @@ public class LoopPractice {
             System.out.println(i);
         }
 
-
+        System.out.println("asddl;hkgjfhdjdk");
     }
 }
